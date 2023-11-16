@@ -7,6 +7,7 @@ The data used for this project was scraped from Basketball Reference
 
 ## Model Training
 We used well over 100 features to train our model to find patterns with the Mov. We used many kinds of models and found the best results with the XGboost model. 
+<![download-3](https://github.com/makmula/NBA-data/assets/141356197/ebfb408f-d40f-4679-8a58-2737ff8bd9d5)>
 
 ## Evaluation
 In assessing the performance of the NBA Margin of Victory Prediction model, the Mean Absolute Error (MAE) serves as the primary evaluation metric. MAE is a robust measure that quantifies the average absolute difference between the predicted margin of victory and the actual margin of victory. A lower MAE indicates better predictive accuracy.
