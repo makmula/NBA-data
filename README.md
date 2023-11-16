@@ -10,6 +10,8 @@ We used well over 100 features to train our model to find patterns with the Mov.
 
 ## Evaluation
 In assessing the performance of the NBA Margin of Victory Prediction model, the Mean Absolute Error (MAE) serves as the primary evaluation metric. MAE is a robust measure that quantifies the average absolute difference between the predicted margin of victory and the actual margin of victory. A lower MAE indicates better predictive accuracy.
+<![download-2](https://github.com/makmula/NBA-data/assets/141356197/5cb7b3f9-57ae-4812-9b7a-f7410b4e7296)>
+
 
 ### Metrics Overview
 Mean Absolute Error (MAE): The MAE is calculated as the average absolute difference between the predicted and actual margin of victory for each game. It provides a straightforward and interpretable measure of prediction accuracy.
